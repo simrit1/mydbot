@@ -4,7 +4,7 @@
 
 You can install released versions of mydbot from the Python Package Index with pip or a similar tool:
 
-**Stable Release:** `pip install mydbot`<br>
+**Stable Release:** `pip install mydbot==0.1`<br>
 <br>**Originally Tested with: Python 3.8.6**
 ## Something Important 
 Please **Turn ON** Server Member Intents of your bot 
@@ -29,6 +29,18 @@ my_bot.start_bot()
 
 ```
 
+,
+<br>
+This package depends upon four main cogs and I'm also the creator of those, you can use those specifically like cogs too,<br>
+<b>install the cogs
+<code>
+```python
+pip install sbutilcog #handle utility stuffs
+<br>pip install sbfuncog #funny isn't it?
+<br>pip install sblycog #get lyrics of songs!
+<br>pip install sberrorcog #simple error handler
+```
+</code>
 
 <br>
 <br><b>
