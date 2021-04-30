@@ -40,7 +40,22 @@ pip install sbfuncog #funny isn't it?
 pip install sblycog #get lyrics of songs!
 pip install sberrorcog #simple error handler
 ```
+Use them: 
+```python
+import discord, sbutilcog, sbfuncog
+from discord.ext import commands
 
+bot = commands.Bot(command_prefix='>')
+
+bot.load_extension("sbutilcog")
+bot.load_extension("sbfuncog")
+#and just like that
+@bot.command
+async def lol(ctx):
+  await ctx.send("LOL")
+
+bot.run('token')
+```
 
 <br>
 <br><b>
