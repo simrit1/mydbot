@@ -29,18 +29,18 @@ my_bot.start_bot()
 
 ```
 
-,
-<br>
-This package depends upon four main cogs and I'm also the creator of those, you can use those specifically like cogs too,<br>
-<b>install the cogs
-<code>
+
+<br><b>ATTENTION!</b><br>
+This package depends upon four main cogs ,you can use those specifically too:<br>
+<b>Install the cogs<b>
+
 ```python
 pip install sbutilcog #handle utility stuffs
-<br>pip install sbfuncog #funny isn't it?
-<br>pip install sblycog #get lyrics of songs!
-<br>pip install sberrorcog #simple error handler
+pip install sbfuncog #funny isn't it?
+pip install sblycog #get lyrics of songs!
+pip install sberrorcog #simple error handler
 ```
-</code>
+
 
 <br>
 <br><b>
