@@ -50,7 +50,7 @@ bot = commands.Bot(command_prefix='>')
 bot.load_extension("sbutilcog")
 bot.load_extension("sbfuncog")
 #and just like that
-@bot.command
+@bot.command()
 async def lol(ctx):
   await ctx.send("LOL")
 
