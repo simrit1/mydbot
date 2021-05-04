@@ -1,6 +1,6 @@
 # mydbot v0.1
 [![Downloads](https://static.pepy.tech/personalized-badge/mydbot?period=total&units=international_system&left_color=green&right_color=red&left_text=Downloads)](https://pepy.tech/project/mydbot)
-
+[![Downloads/Month](https://static.pepy.tech/personalized-badge/mydbot?period=month&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads/Month)](https://pepy.tech/project/mydbot)
 ## Installation
 
 You can install released versions of mydbot from the Python Package Index with pip or a similar tool:
