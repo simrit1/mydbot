@@ -1,4 +1,5 @@
 # mydbot v0.1
+[![Downloads](https://static.pepy.tech/personalized-badge/mydbot?period=total&units=international_system&left_color=green&right_color=red&left_text=Downloads)](https://pepy.tech/project/mydbot)
 
 ## Installation
 
